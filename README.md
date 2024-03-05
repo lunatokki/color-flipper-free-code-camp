@@ -1,3 +1,5 @@
-free code camp
+free code camp(cf.vanilla JS project)
 
-+ 클릭시 뷰포트의 색상이 변경되는 color flipper
++ color flipper
+
+http://127.0.0.1:5501/index.html
